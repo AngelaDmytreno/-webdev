@@ -1,5 +1,6 @@
 body{
 	font-family: 'Poppins', sans-serif;
+	height: 100vh;
 }
 *{
 	padding: 0;
@@ -240,25 +241,9 @@ form .pole{
 	color: #000;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-body{
-	height: 4000px;
+#copyright {
+	margin-left: 10%;
 }
-
-
 
 
 
